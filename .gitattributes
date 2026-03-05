@@ -1,3 +1,5 @@
+big-files/100mb-file-001.pdf filter=lfs diff=lfs merge=lfs -text
+big-files/100mb-file-002.pdf filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.tar filter=lfs diff=lfs merge=lfs -text
